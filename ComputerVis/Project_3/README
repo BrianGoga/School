@@ -1,0 +1,35 @@
+README FOR BRIAN GOGA'S A3P1 AND A3P2
+
+COMPILE USING:
+g++ A3p1.cpp
+
+or
+
+g++ A3p2.cpp
+
+RUN USING:
+./a.out
+
+
+NOTE:
+p1 will run by itself if the required testing images are in the same directory as the program
+
+p2 askes the user to input the name of the image you wish to find keypoints on
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

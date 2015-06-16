@@ -1,0 +1,14 @@
+README FOR A4.CPP
+
+The folder should contain:
+data 	- 	a folder containing all the text and pictures
+CMakeLists.txt - 	a text file that will make the make file
+A4.cpp 	-	the main program 
+
+To Run the program:
+Go to the file in the terminal and type
+"cmake ."
+"make"
+"./A4"
+
+The program will run and will return a list of images and the error between the ground truth and the projected points calibrated by the program. These errors are measured in pixels.

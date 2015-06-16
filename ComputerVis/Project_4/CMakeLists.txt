@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( A4 )
+find_package( OpenCV REQUIRED )
+add_executable( A4 A4.cpp )
+target_link_libraries( A4 ${OpenCV_LIBS} )
